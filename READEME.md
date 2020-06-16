@@ -6,9 +6,9 @@ https://github.com/KazukiSunakawa/Sample.git
 
 ## ローカルリポジトリ
 
-*お好み焼きレシピ
-	[okonomi.txt](okonomi.text)	
+* お好み焼きレシピ
+	[okonomi.txt](okonomi.txt)	
 
-### リモートリポジトリ
-*READ.meを作ってみる
-*マークダウンを覚える
+## リモートリポジトリ
+* README.mdを作ってみる
+* マークダウンを覚える
